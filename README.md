@@ -1,7 +1,7 @@
 # 🚀 Kaggle Analyzer Pro
 **Advanced EDA & AutoML Platform** | *Built with Streamlit*
 
-![App Screenshot](assets/screenshots/tap1.png)  
+![App Screenshot](assets/screenshots/)  
 *(Add a screenshot of your app)*
 
 ## Features
