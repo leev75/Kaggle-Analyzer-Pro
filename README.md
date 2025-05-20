@@ -29,7 +29,7 @@
 - **Backend**: Python (Pandas, scikit-learn)
 - **Deployment**: Streamlit Cloud (optional)
 
-[▶️ Watch Demo Video]([[https://youtube.com/your-demo-link](https://youtu.be/vKPddb5oJWE](https://youtu.be/vKPddb5oJWE)))  
+[▶️ Watch Demo Video](https://youtu.be/vKPddb5oJWE)  
 📄 [Download PDF Report](report/report.pdf) *(or link externally)*
 
 
